@@ -6,5 +6,5 @@ pixieLogger is a lightweight example of a cross-platform keylogging apparatus in
 Compilition of this software is expected to be done on the relevant targeted platforms using a Python to XX compiler.
 Something like py2exe / py2app or cx_freeze.
 
-##Notice:
+## Notice:
 This tool is intended to capture sensitive information and securely transfer said information to a third party endPoint using HTTPS/TLS, this is intended for demonstration purposes only and should be used responsibly. By using this software you agree to idemnify any and all Pixies including myself from any and all implicit or explicit legal responsibilities.
